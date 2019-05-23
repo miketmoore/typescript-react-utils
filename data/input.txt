@@ -1,7 +1,9 @@
-showNameInTooltip,
-language,
-version,
-ossEnabled,
-licenses,
-latestVersion,
-latestReleaseDate
+fooBar,
+booFar,
+foo,
+bar,
+biz,
+baz,
+boopDoop,
+boop,
+doop

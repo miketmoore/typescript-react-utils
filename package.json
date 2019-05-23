@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "author": "Michael Moore <miketmoore@gmail.com>",
   "devDependencies": {
+    "@types/node": "^12.0.2",
     "awesome-typescript-loader": "^5.2.1",
     "prettier": "^1.16.4",
+    "rimraf": "^2.6.3",
     "source-map-loader": "^0.2.4",
     "typescript": "^3.3.4000"
   },
   "scripts": {
     "build": "tsc",
+    "clean": "rimraf dist",
     "format": "prettier --write \"**/*.{ts,js,json,md,yml}\""
   },
   "prettier": {
