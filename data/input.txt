@@ -1,0 +1,7 @@
+showNameInTooltip,
+language,
+version,
+ossEnabled,
+licenses,
+latestVersion,
+latestReleaseDate
